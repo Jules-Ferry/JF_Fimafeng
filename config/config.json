@@ -1,0 +1,16 @@
+{
+    "school": {
+        "name": "Lycée de l'Arc-en-Ciel"
+    },
+    "mail": {
+        "host": "smtps.monlycee.net",
+        "port": 465,
+        "secure": true,
+        "studentsHost": "fournisseur.fr"
+    },
+    "variables": {
+        "DISCORD_URL": "https://discord.gg/szd7HVcad4",
+        "SCHOOL_NAME": "Lycée de l'Arc-en-Ciel",
+        "URL_LOGO_HERE": "https://julesferry.azures.fr/assets/img/logo.png"
+    }
+}
